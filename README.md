@@ -6,3 +6,6 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0h
 
 First we create two schemas the create the datasets inside schemas. then load the data into the table with INSERT command. 
 
+"excel_1.xlsx" is the file containing dataset exported from SQL query, pivot tables and dashboard.
+
+Same visualization in Tableau is available in https://public.tableau.com/app/profile/mehdi.zoghinia/viz/SQL_Excel_P1/Dashboard1
